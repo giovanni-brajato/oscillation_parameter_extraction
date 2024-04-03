@@ -1,2 +1,1 @@
-# beatnote_parameter_extraction
-&lt;
+Matlab scripts that extract parameters from a numerical signal
